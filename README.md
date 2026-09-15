@@ -54,5 +54,5 @@ OLLAMA_MODEL=llama3.2:1b npm start
 
 ## See also
 
-- [RNAppIntegration.md](./RNAppIntegration.md) — Metro, babel, iOS, troubleshooting
-- [DiagnosticsArchitecture.md](./DiagnosticsArchitecture.md) — player logs, cloud MCP
+- [RNAppIntegration.md](./docs/RNAppIntegration.md) — Metro, babel, iOS, troubleshooting
+- [DiagnosticsArchitecture.md](./docs/DiagnosticsArchitecture.md) — player logs, cloud MCP
